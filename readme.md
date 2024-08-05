@@ -1,6 +1,7 @@
 ## Environment
 
 - pyenv
+- python 3.11.9
 
 ```bash
 // pyenv 설치
@@ -26,10 +27,7 @@ pyenv version
 pyenv virtualenv 3.11 llm-application
 pyenv local llm-application
 
-
-
-
 ```
 
-- python 3.11.9
+
 
